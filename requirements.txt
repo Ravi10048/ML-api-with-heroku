@@ -4,4 +4,3 @@ pydantic
 scikit-learn
 numpy
 pickle5
-json
